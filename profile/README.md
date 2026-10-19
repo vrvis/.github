@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [powered by vrvis.at](https://www.vrvis.at)
+
 [the aardvark platform](https://github.com/aardvark-platform)
 
 <!--
